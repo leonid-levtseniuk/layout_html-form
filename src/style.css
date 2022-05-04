@@ -1,1 +1,17 @@
 /* styles go here */
+.formField {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.flag {
+  margin-bottom: 5px;
+}
+
+.field {
+  margin-bottom: 20px;
+}
+
+.recommendation {
+  margin-bottom: 5px;
+}
